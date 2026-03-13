@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "job-prod-001",
+    "company": "Centific",
+    "title": "AI Product Strategist",
+    "description": "Lead the design and development of AI-driven products by translating real-world problems into scalable AI solutions and driving product strategy from concept to deployment.",
+    "job_code": "AIG-PROD-001",
+    "department": "Product",
+    "stream": "AI Product",
+    "location": "Hyderabad / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 5,
+    "status": "OPEN",
+    "role_summary": "Own the vision, strategy, and roadmap for AI products and collaborate with engineering teams to deliver impactful solutions.",
+    "key_responsibilities": [
+      "Identify user problems and define AI product opportunities",
+      "Create product roadmaps and define MVP scope",
+      "Collaborate with engineering teams to translate requirements into solutions",
+      "Define success metrics and evaluate product outcomes",
+      "Drive product strategy discussions with stakeholders"
+    ],
+    "mandatory_skills": [
+      "Product thinking",
+      "Problem framing",
+      "Business analysis",
+      "AI technology awareness"
+    ],
+    "good_to_have_skills": [
+      "Product management tools",
+      "AI platforms",
+      "Market research"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Strategic thinking",
+      "Stakeholder management"
+    ],
+    "certifications_or_qualifications": [
+      "MBA / B.Tech / Product Management Certification"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "productlead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "AI Product Strategy Assessment",
+      "description": "Evaluation of product thinking, problem framing, and AI product strategy",
+      "duration_minutes": 40,
+      "total_questions": 6,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "What is the first step in designing an AI product?",
+          "options": [
+            "Model training",
+            "Problem definition",
+            "Technology selection",
+            "Deployment"
+          ],
+          "correct_answer": "Problem definition",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which metric is most useful for validating an MVP in an AI product?",
+          "options": [
+            "Number of emails sent",
+            "User adoption and feedback",
+            "Team size",
+            "Office location"
+          ],
+          "correct_answer": "User adoption and feedback",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe an AI product idea you would take from concept to deployment and explain the target user problem.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "What is the main purpose of a product roadmap?",
+          "options": [
+            "To replace technical documentation",
+            "To define long-term vision and priorities",
+            "To track employee attendance",
+            "To perform code reviews"
+          ],
+          "correct_answer": "To define long-term vision and priorities",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you prioritize features for an AI product with limited engineering bandwidth?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 25
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "MCQ",
+          "question_text": "Who is primarily responsible for aligning product goals with user needs and business impact?",
+          "options": [
+            "Product owner or strategist",
+            "Only the finance team",
+            "Only the HR team",
+            "Security team"
+          ],
+          "correct_answer": "Product owner or strategist",
+          "marks": 25
+        }
+      ]
+    },
+    "required_skills": [
+      "Product strategy",
+      "Business analysis",
+      "Problem solving",
+      "AI technology awareness"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-innovation-001",
+    "company": "Centific",
+    "title": "AI Innovation Engineer",
+    "description": "Develop and prototype AI solutions to solve real-world problems using modern machine learning and AI frameworks.",
+    "job_code": "AIG-ENG-002",
+    "department": "Engineering",
+    "stream": "AI Engineering",
+    "location": "Hyderabad / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 6,
+    "status": "OPEN",
+    "role_summary": "Build AI prototypes and implement real-world AI use cases using modern frameworks and applied engineering practices.",
+    "key_responsibilities": [
+      "Develop AI models and prototypes",
+      "Experiment with machine learning frameworks",
+      "Build AI-driven applications",
+      "Optimize model performance",
+      "Collaborate with product and data teams"
+    ],
+    "mandatory_skills": [
+      "Python",
+      "Machine learning fundamentals",
+      "Deep learning frameworks",
+      "Problem solving"
+    ],
+    "good_to_have_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "OpenAI APIs"
+    ],
+    "soft_skills": [
+      "Curiosity",
+      "Collaboration",
+      "Analytical thinking"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / B.E / M.Tech / MCA"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "englead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "AI Innovation Engineer Assessment",
+      "description": "Evaluation of machine learning fundamentals and real-world AI application thinking",
+      "duration_minutes": 45,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "Which framework is commonly used for deep learning model development?",
+          "options": [
+            "TensorFlow",
+            "Excel",
+            "PowerPoint",
+            "Jira"
+          ],
+          "correct_answer": "TensorFlow",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which language is most commonly used for AI and ML prototyping?",
+          "options": [
+            "Python",
+            "HTML",
+            "CSS",
+            "SQL only"
+          ],
+          "correct_answer": "Python",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe a real-world AI use case you would prototype during the hackathon.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Which of the following is a supervised learning task?",
+          "options": [
+            "Image classification",
+            "Clustering customer segments without labels",
+            "Dimensionality reduction",
+            "Random prompt creation"
+          ],
+          "correct_answer": "Image classification",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "Which library is widely used for transformer-based models?",
+          "options": [
+            "Hugging Face Transformers",
+            "Bootstrap",
+            "JUnit",
+            "Selenium"
+          ],
+          "correct_answer": "Hugging Face Transformers",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you evaluate the quality of an AI prototype before presenting it?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "What is overfitting in machine learning?",
+          "options": [
+            "The model performs well on training data but poorly on unseen data",
+            "The model trains too quickly",
+            "The dataset is too small to store",
+            "The model has too few parameters"
+          ],
+          "correct_answer": "The model performs well on training data but poorly on unseen data",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how you would improve an underperforming machine learning model.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Python",
+      "Machine learning",
+      "Deep learning",
+      "AI prototyping"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-cognitive-001",
+    "company": "Centific",
+    "title": "Cognitive AI Innovation Fellow",
+    "description": "Explore advanced AI concepts and experimentation, working on innovative cognitive AI technologies such as LLMs, agents, and multimodal systems.",
+    "job_code": "AIG-COG-001",
+    "department": "AI Research",
+    "stream": "Cognitive AI",
+    "location": "Hyderabad / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 4,
+    "status": "OPEN",
+    "role_summary": "Experiment with emerging AI models and cognitive systems, building proof-of-concepts around LLMs, multimodal systems, and AI agents.",
+    "key_responsibilities": [
+      "Experiment with emerging AI models and architectures",
+      "Explore LLM-based solutions and agentic AI frameworks",
+      "Conduct research on new AI capabilities and methods",
+      "Build proof-of-concept AI innovations",
+      "Document and present AI experimentation outcomes"
+    ],
+    "mandatory_skills": [
+      "Python",
+      "Deep learning fundamentals",
+      "LLM concepts",
+      "Research and experimentation mindset"
+    ],
+    "good_to_have_skills": [
+      "Hugging Face",
+      "LangChain",
+      "Reinforcement learning",
+      "Multimodal AI"
+    ],
+    "soft_skills": [
+      "Curiosity",
+      "Analytical thinking",
+      "Communication"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / B.E / M.Tech / MCA"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "researchlead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "Cognitive AI Innovation Assessment",
+      "description": "Evaluation of advanced AI understanding, experimentation, and LLM concepts",
+      "duration_minutes": 45,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "What does LLM stand for?",
+          "options": [
+            "Large Language Model",
+            "Linear Learning Matrix",
+            "Logical Language Method",
+            "Layered Learning Model"
+          ],
+          "correct_answer": "Large Language Model",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which framework is commonly used for transformer-based NLP models?",
+          "options": [
+            "Hugging Face",
+            "NumPy only",
+            "Power BI",
+            "React"
+          ],
+          "correct_answer": "Hugging Face",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe one cognitive AI concept or emerging AI capability you would like to explore during the hackathon.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Which of the following best describes multimodal AI?",
+          "options": [
+            "AI systems that work with multiple data types such as text and images",
+            "AI that only works offline",
+            "AI that avoids data inputs",
+            "AI for database backups"
+          ],
+          "correct_answer": "AI systems that work with multiple data types such as text and images",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "What is one key benefit of AI agents?",
+          "options": [
+            "They can autonomously perform multi-step tasks",
+            "They replace all databases",
+            "They eliminate the need for prompts",
+            "They only work with spreadsheets"
+          ],
+          "correct_answer": "They can autonomously perform multi-step tasks",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you validate whether an experimental AI idea is worth taking to prototype?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which skill is most important for this role?",
+          "options": [
+            "Experimentation mindset",
+            "Payroll processing",
+            "Office administration",
+            "Travel booking"
+          ],
+          "correct_answer": "Experimentation mindset",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how you would compare two LLM-based approaches for the same use case.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Python",
+      "LLM concepts",
+      "Deep learning",
+      "AI experimentation"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-transform-001",
+    "company": "Centific",
+    "title": "AI Transformation Engineer",
+    "description": "Apply AI to business processes, helping organizations automate workflows, improve decision-making, and implement AI-driven transformation initiatives.",
+    "job_code": "AIG-TRANS-001",
+    "department": "Transformation",
+    "stream": "AI Transformation",
+    "location": "Hyderabad / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 4,
+    "status": "OPEN",
+    "role_summary": "Work at the intersection of business workflows and AI by identifying automation opportunities and enabling AI-led transformation.",
+    "key_responsibilities": [
+      "Identify business workflows that can be optimized using AI",
+      "Design automation frameworks using AI technologies",
+      "Integrate AI capabilities into existing enterprise systems",
+      "Analyze operational data to improve processes",
+      "Collaborate with business stakeholders to implement solutions"
+    ],
+    "mandatory_skills": [
+      "Business process analysis",
+      "Problem solving",
+      "AI solution integration awareness",
+      "Analytical thinking"
+    ],
+    "good_to_have_skills": [
+      "Automation tools",
+      "SQL",
+      "Cloud AI services",
+      "Business analytics"
+    ],
+    "soft_skills": [
+      "Stakeholder communication",
+      "Ownership",
+      "Adaptability"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / MBA / MCA / Business Analytics"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "transformationlead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "AI Transformation Engineer Assessment",
+      "description": "Evaluation of business process analysis and AI transformation thinking",
+      "duration_minutes": 40,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "What is the first step in applying AI to a business workflow?",
+          "options": [
+            "Buy new hardware",
+            "Understand the current process and pain points",
+            "Deploy a chatbot immediately",
+            "Hire more team members"
+          ],
+          "correct_answer": "Understand the current process and pain points",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which outcome best reflects successful AI transformation?",
+          "options": [
+            "Reduced manual effort and improved process efficiency",
+            "More meetings",
+            "Higher office rent",
+            "Longer approval chains"
+          ],
+          "correct_answer": "Reduced manual effort and improved process efficiency",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe a business problem that could be solved using AI-driven automation.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Why is stakeholder alignment important in transformation projects?",
+          "options": [
+            "To reduce internet speed",
+            "To ensure solution adoption and clarity of requirements",
+            "To avoid documentation",
+            "To replace testing"
+          ],
+          "correct_answer": "To ensure solution adoption and clarity of requirements",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "Which tool type is often used in workflow automation?",
+          "options": [
+            "RPA or automation tools",
+            "Photo editing software",
+            "Spreadsheet themes",
+            "Video players"
+          ],
+          "correct_answer": "RPA or automation tools",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you measure the success of an AI-based business process improvement project?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which of the following is a strong skill for this role?",
+          "options": [
+            "Process analysis",
+            "Travel planning",
+            "Office seating allocation",
+            "Graphic illustration"
+          ],
+          "correct_answer": "Process analysis",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how you would prioritize multiple candidate workflows for AI transformation.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Business analysis",
+      "AI transformation thinking",
+      "Problem solving",
+      "Stakeholder communication"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-cv-001",
+    "company": "Centific",
+    "title": "Computer Vision Pioneer",
+    "description": "Build AI systems that analyze and interpret visual data including images and videos for real-world vision AI applications.",
+    "job_code": "AIG-CV-001",
+    "department": "AI Research",
+    "stream": "Computer Vision",
+    "location": "Hyderabad",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 4,
+    "status": "OPEN",
+    "role_summary": "Develop computer vision solutions for tasks such as detection, classification, and visual analytics using image and video data.",
+    "key_responsibilities": [
+      "Train computer vision models",
+      "Work with image and video datasets",
+      "Develop detection and classification systems",
+      "Evaluate model accuracy and performance",
+      "Prototype vision AI solutions"
+    ],
+    "mandatory_skills": [
+      "Python",
+      "Computer vision fundamentals",
+      "Deep learning basics",
+      "Image processing understanding"
+    ],
+    "good_to_have_skills": [
+      "OpenCV",
+      "YOLO",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "soft_skills": [
+      "Analytical thinking",
+      "Problem solving",
+      "Attention to detail"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / B.E / M.Tech"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "cvlead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "Computer Vision Assessment",
+      "description": "Evaluation of computer vision fundamentals and practical problem-solving",
+      "duration_minutes": 40,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "Which library is commonly used for image processing in Python?",
+          "options": [
+            "OpenCV",
+            "Pandas",
+            "Power BI",
+            "FastAPI"
+          ],
+          "correct_answer": "OpenCV",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which task is an example of computer vision?",
+          "options": [
+            "Object detection in images",
+            "Payroll processing",
+            "Text-only sentiment charting without content",
+            "Spreadsheet formatting"
+          ],
+          "correct_answer": "Object detection in images",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe a computer vision problem you would like to solve during the hackathon.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "What does YOLO primarily help with?",
+          "options": [
+            "Real-time object detection",
+            "Audio transcription",
+            "Database indexing",
+            "Prompt storage"
+          ],
+          "correct_answer": "Real-time object detection",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "Which metric is commonly used for classification performance?",
+          "options": [
+            "Accuracy",
+            "Page count",
+            "Compression ratio",
+            "Currency conversion"
+          ],
+          "correct_answer": "Accuracy",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you improve a computer vision model that performs poorly on low-light images?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which framework is commonly used for deep learning-based vision models?",
+          "options": [
+            "PyTorch",
+            "Photoshop",
+            "Figma",
+            "PowerPoint"
+          ],
+          "correct_answer": "PyTorch",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how dataset quality impacts the performance of a vision model.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Python",
+      "Computer vision",
+      "Image processing",
+      "Deep learning basics"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-data-001",
+    "company": "Centific",
+    "title": "Data Intelligence Strategist",
+    "description": "Drive data-driven insights and manage data lifecycle processes including data creation, curation, and annotation for AI systems, with a business-oriented approach.",
+    "job_code": "AIG-DATA-001",
+    "department": "Data Strategy",
+    "stream": "Data Intelligence",
+    "location": "Hyderabad",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 5,
+    "status": "OPEN",
+    "role_summary": "Support AI solutions through structured data creation, curation, annotation, and business insight generation.",
+    "key_responsibilities": [
+      "Design data collection and preparation strategies",
+      "Manage data annotation and curation workflows",
+      "Generate business insights from datasets",
+      "Support AI model development with high-quality data",
+      "Ensure data quality standards and consistency"
+    ],
+    "mandatory_skills": [
+      "Data analysis",
+      "Business analytics thinking",
+      "Understanding of data lifecycle",
+      "Structured problem solving"
+    ],
+    "good_to_have_skills": [
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Excel analytics"
+    ],
+    "soft_skills": [
+      "Analytical thinking",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications_or_qualifications": [
+      "MBA / Business Analytics / BBA / Data Analytics Certification"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "datastrategy@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "Data Intelligence Strategist Assessment",
+      "description": "Evaluation of data lifecycle understanding, data curation, annotation, and business insight thinking",
+      "duration_minutes": 40,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "Which of the following is part of the data lifecycle?",
+          "options": [
+            "Data collection and curation",
+            "Office desk allocation",
+            "Travel reimbursement",
+            "Building security scheduling"
+          ],
+          "correct_answer": "Data collection and curation",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Why is data annotation important for AI systems?",
+          "options": [
+            "It helps create labeled data for training models",
+            "It reduces internet usage",
+            "It replaces all testing",
+            "It only improves slide design"
+          ],
+          "correct_answer": "It helps create labeled data for training models",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe how well-curated data can improve the success of an AI solution.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Which tool is commonly used for business dashboards and reporting?",
+          "options": [
+            "Power BI",
+            "MS Paint",
+            "Notepad",
+            "Command Prompt"
+          ],
+          "correct_answer": "Power BI",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "Which activity best represents data curation?",
+          "options": [
+            "Cleaning and organizing data for use",
+            "Booking conference rooms",
+            "Installing printers",
+            "Writing job offer letters"
+          ],
+          "correct_answer": "Cleaning and organizing data for use",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "What business risks can arise from poor quality or poorly annotated data?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which skill is most relevant for a Data Intelligence Strategist?",
+          "options": [
+            "Ability to derive insights from data",
+            "Network cable installation",
+            "Desktop wallpaper customization",
+            "Building access management"
+          ],
+          "correct_answer": "Ability to derive insights from data",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you prioritize data annotation efforts if time and resources were limited?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Data analysis",
+      "Data lifecycle understanding",
+      "Business insights",
+      "Attention to detail"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-systems-001",
+    "company": "Centific",
+    "title": "AI Systems Trailblazer",
+    "description": "Design scalable infrastructure for deploying and operating AI systems in production-like environments.",
+    "job_code": "AIG-SYS-001",
+    "department": "Platform Engineering",
+    "stream": "AI Infrastructure",
+    "location": "Bangalore / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 3,
+    "status": "OPEN",
+    "role_summary": "Build scalable AI deployment pipelines, backend integrations, and system architectures for AI-powered products.",
+    "key_responsibilities": [
+      "Develop AI deployment pipelines",
+      "Integrate APIs and backend services",
+      "Optimize model serving performance",
+      "Monitor system reliability and scalability",
+      "Build production-ready AI infrastructure components"
+    ],
+    "mandatory_skills": [
+      "Python",
+      "API development",
+      "Backend fundamentals",
+      "System design basics"
+    ],
+    "good_to_have_skills": [
+      "Docker",
+      "Kubernetes",
+      "Cloud platforms",
+      "MLflow"
+    ],
+    "soft_skills": [
+      "Problem solving",
+      "Ownership",
+      "Collaboration"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / B.E / M.Tech / MCA"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "platformlead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "AI Systems Engineering Assessment",
+      "description": "Evaluation of backend, deployment, and AI infrastructure fundamentals",
+      "duration_minutes": 40,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "What is Docker primarily used for?",
+          "options": [
+            "Containerizing applications",
+            "Editing spreadsheets",
+            "Designing logos",
+            "Managing payroll"
+          ],
+          "correct_answer": "Containerizing applications",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Why are APIs important in AI systems?",
+          "options": [
+            "They allow models and services to communicate with applications",
+            "They increase monitor brightness",
+            "They replace databases entirely",
+            "They are only used for presentation slides"
+          ],
+          "correct_answer": "They allow models and services to communicate with applications",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe how you would deploy an AI model so that another application can consume it.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Which tool is commonly used to serve Python APIs quickly?",
+          "options": [
+            "FastAPI",
+            "Photoshop",
+            "Canva",
+            "PowerPoint"
+          ],
+          "correct_answer": "FastAPI",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "What is a key goal of scalability in AI systems?",
+          "options": [
+            "Handling increased usage efficiently",
+            "Reducing code readability",
+            "Avoiding monitoring",
+            "Disabling automation"
+          ],
+          "correct_answer": "Handling increased usage efficiently",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you monitor the reliability of an AI inference service?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which of the following is a cloud platform commonly used for deployment?",
+          "options": [
+            "Azure",
+            "MS Word",
+            "Figma",
+            "Notepad"
+          ],
+          "correct_answer": "Azure",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how containerization helps make AI systems easier to deploy and maintain.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Python",
+      "API development",
+      "Backend systems",
+      "Deployment fundamentals"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  },
+  {
+    "id": "job-solutions-001",
+    "company": "Centific",
+    "title": "Intelligent Solutions Builder",
+    "description": "Build end-to-end AI applications by integrating machine learning models into practical, user-facing software systems.",
+    "job_code": "AIG-SOL-001",
+    "department": "Solutions Engineering",
+    "stream": "AI Applications",
+    "location": "Hyderabad / Hybrid",
+    "employment_type": "INTERNSHIP",
+    "experience_min": 0.0,
+    "experience_max": 3.0,
+    "number_of_openings": 5,
+    "status": "OPEN",
+    "role_summary": "Develop intelligent applications and working prototypes by combining AI models, APIs, and product-facing interfaces.",
+    "key_responsibilities": [
+      "Build AI-powered applications and prototypes",
+      "Integrate ML models into software systems",
+      "Develop APIs and user-facing workflows",
+      "Prototype intelligent product experiences",
+      "Deploy and demonstrate end-to-end AI solutions"
+    ],
+    "mandatory_skills": [
+      "Python",
+      "Application development",
+      "API development",
+      "Problem solving"
+    ],
+    "good_to_have_skills": [
+      "Streamlit",
+      "React",
+      "Gradio",
+      "OpenAI APIs"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Collaboration",
+      "Ownership"
+    ],
+    "certifications_or_qualifications": [
+      "B.Tech / B.E / MCA"
+    ],
+    "screening_cutoff": 50,
+    "test_cutoff": 60,
+    "cc_emails": [
+      "admin@centific.com",
+      "solutionslead@centific.com"
+    ],
+    "test_by_llm": "Yes",
+    "test_definition": {
+      "test_name": "Intelligent Solutions Builder Assessment",
+      "description": "Evaluation of end-to-end AI application development and integration thinking",
+      "duration_minutes": 40,
+      "total_questions": 8,
+      "total_marks": 100,
+      "pass_percentage": 60,
+      "questions_json": [
+        {
+          "question_id": "Q1",
+          "question_type": "MCQ",
+          "question_text": "What is the purpose of an API in an AI-powered application?",
+          "options": [
+            "To connect application components and services",
+            "To design posters",
+            "To compress PDFs only",
+            "To manage office attendance"
+          ],
+          "correct_answer": "To connect application components and services",
+          "marks": 10
+        },
+        {
+          "question_id": "Q2",
+          "question_type": "MCQ",
+          "question_text": "Which tool is commonly used to create quick AI web app demos?",
+          "options": [
+            "Streamlit",
+            "MS Paint",
+            "Excel macros only",
+            "Bluetooth manager"
+          ],
+          "correct_answer": "Streamlit",
+          "marks": 10
+        },
+        {
+          "question_id": "Q3",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Describe an AI-powered application you would build during the hackathon and explain the user value.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 20
+        },
+        {
+          "question_id": "Q4",
+          "question_type": "MCQ",
+          "question_text": "Which of the following best describes an end-to-end AI solution?",
+          "options": [
+            "A solution that connects data, model, application, and user experience",
+            "A standalone dataset with no usage",
+            "A slide deck with no prototype",
+            "A report without implementation"
+          ],
+          "correct_answer": "A solution that connects data, model, application, and user experience",
+          "marks": 10
+        },
+        {
+          "question_id": "Q5",
+          "question_type": "MCQ",
+          "question_text": "Which language is commonly used for backend AI application development?",
+          "options": [
+            "Python",
+            "HTML only",
+            "CSS only",
+            "Markdown"
+          ],
+          "correct_answer": "Python",
+          "marks": 10
+        },
+        {
+          "question_id": "Q6",
+          "question_type": "SUBJECTIVE",
+          "question_text": "How would you structure an MVP for an intelligent application with limited time?",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        },
+        {
+          "question_id": "Q7",
+          "question_type": "MCQ",
+          "question_text": "Which skill is most important for this role?",
+          "options": [
+            "Ability to integrate AI into usable applications",
+            "Office inventory handling",
+            "Meeting room booking",
+            "Printer cartridge replacement"
+          ],
+          "correct_answer": "Ability to integrate AI into usable applications",
+          "marks": 10
+        },
+        {
+          "question_id": "Q8",
+          "question_type": "SUBJECTIVE",
+          "question_text": "Explain how you would validate that your AI application is usable, reliable, and valuable to end users.",
+          "options": null,
+          "correct_answer": null,
+          "marks": 15
+        }
+      ]
+    },
+    "required_skills": [
+      "Python",
+      "Application development",
+      "API integration",
+      "AI solution building"
+    ],
+    "min_experience_years": 0.0,
+    "salary_range": null
+  }
+]

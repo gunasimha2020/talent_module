@@ -1,0 +1,137 @@
+[
+  {
+    "test_id": "f34eaa9f-3482-4b5f-900e-9cf8fdbf5903",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Can you explain the difference between supervised and unsupervised learning in machine learning?"
+      },
+      {
+        "id": 2,
+        "question": "Describe how you would deploy a machine learning model using Docker."
+      },
+      {
+        "id": 3,
+        "question": "What are transformers, and how do they differ from traditional neural networks?"
+      },
+      {
+        "id": 4,
+        "question": "How do you handle model versioning and deployment in an MLOps pipeline?"
+      },
+      {
+        "id": 5,
+        "question": "Can you provide an example of a project where you used PyTorch to build a machine learning model?"
+      }
+    ]
+  },
+  {
+    "test_id": "eb38de65-cb38-40b3-9eb9-d3a9762ab529",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Can you explain the difference between supervised and unsupervised learning in machine learning?"
+      },
+      {
+        "id": 2,
+        "question": "Describe your experience with PyTorch and how you have used it in previous projects."
+      },
+      {
+        "id": 3,
+        "question": "What are transformers, and how do they differ from traditional neural networks?"
+      },
+      {
+        "id": 4,
+        "question": "How do you approach building and deploying an MLOps pipeline for a machine learning model?"
+      },
+      {
+        "id": 5,
+        "question": "Can you provide an example of how you have used Docker in a machine learning project?"
+      }
+    ]
+  },
+  {
+    "test_id": "9dc4013c-4c92-4bec-8533-b02b19f8ff3c",
+    "job_id": "job-002",
+    "freelancer_id": "95a40f07-baa8-41a5-a03a-429d42bbd46a",
+    "questions": [
+      {
+        "id": 1,
+        "question": "How would you design a REST API endpoint for creating a new user in a FastAPI application?"
+      },
+      {
+        "id": 2,
+        "question": "What are some strategies you would use to ensure the scalability of a microservice built with FastAPI?"
+      },
+      {
+        "id": 3,
+        "question": "Can you explain how you would implement caching with Redis in a FastAPI application?"
+      },
+      {
+        "id": 4,
+        "question": "Describe how you would handle database migrations in a PostgreSQL setup for a microservice."
+      },
+      {
+        "id": 5,
+        "question": "What is your experience with using Docker for deploying FastAPI applications, and what are its benefits?"
+      }
+    ]
+  },
+  {
+    "test_id": "fae0204b-9996-460b-947c-f912074161e0",
+    "job_id": "job-002",
+    "freelancer_id": "95a40f07-baa8-41a5-a03a-429d42bbd46a",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Can you explain how FastAPI handles asynchronous requests and why this is beneficial for API performance?"
+      },
+      {
+        "id": 2,
+        "question": "What are some strategies you would use to ensure the scalability of a REST API built with Python and FastAPI?"
+      },
+      {
+        "id": 3,
+        "question": "Describe your experience with PostgreSQL and how you would optimize a database query for performance."
+      },
+      {
+        "id": 4,
+        "question": "How does Redis enhance the performance of a backend application, and in what scenarios would you choose to use it?"
+      },
+      {
+        "id": 5,
+        "question": "Can you outline the steps to containerize a FastAPI application using Docker?"
+      }
+    ]
+  },
+  {
+    "test_id": "9736af0e-da75-43a7-8bce-c128188c658c",
+    "job_id": "job-626d6b",
+    "freelancer_id": "89b30470-4afa-45a8-a5fc-2c9b603a35a5",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Describe your experience with developing applications using large language models (LLMs). What specific projects have you worked on?"
+      },
+      {
+        "id": 2,
+        "question": "Can you explain how you would integrate a vector database into an LLM application? What factors would you consider?"
+      },
+      {
+        "id": 3,
+        "question": "What is prompt engineering and how have you applied it in your previous work with AI models?"
+      },
+      {
+        "id": 4,
+        "question": "How do you ensure the scalability and performance of AI services you develop? Can you provide an example?"
+      },
+      {
+        "id": 5,
+        "question": "What role does FastAPI play in your AI applications, and how have you utilized it in your previous projects?"
+      }
+    ]
+  }
+]

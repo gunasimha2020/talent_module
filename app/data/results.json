@@ -1,0 +1,252 @@
+[
+  {
+    "test_id": "f34eaa9f-3482-4b5f-900e-9cf8fdbf5903",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "score": "5 out of 5",
+    "total": 5,
+    "correct": 5,
+    "verdict": "Pass",
+    "details": [
+      {
+        "question_id": 1,
+        "is_correct": true,
+        "remark": "Correctly explains the difference between supervised and unsupervised learning."
+      },
+      {
+        "question_id": 2,
+        "is_correct": true,
+        "remark": "Describes a valid approach to deploying a machine learning model using Docker."
+      },
+      {
+        "question_id": 3,
+        "is_correct": true,
+        "remark": "Accurately describes transformers and their difference from traditional neural networks."
+      },
+      {
+        "question_id": 4,
+        "is_correct": true,
+        "remark": "Provides a suitable method for model versioning and deployment in an MLOps pipeline."
+      },
+      {
+        "question_id": 5,
+        "is_correct": true,
+        "remark": "Gives a relevant example of using PyTorch to build a machine learning model."
+      }
+    ]
+  },
+  {
+    "test_id": "f34eaa9f-3482-4b5f-900e-9cf8fdbf5903",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "score": "5 out of 5",
+    "total": 5,
+    "correct": 5,
+    "verdict": "Pass",
+    "details": [
+      {
+        "question_id": 1,
+        "is_correct": true,
+        "remark": "Correctly explains the difference between supervised and unsupervised learning."
+      },
+      {
+        "question_id": 2,
+        "is_correct": true,
+        "remark": "Describes a valid approach to deploying a model using Docker."
+      },
+      {
+        "question_id": 3,
+        "is_correct": true,
+        "remark": "Accurately describes transformers and their advantage over traditional neural networks."
+      },
+      {
+        "question_id": 4,
+        "is_correct": true,
+        "remark": "Provides a good overview of handling model versioning and deployment in MLOps."
+      },
+      {
+        "question_id": 5,
+        "is_correct": true,
+        "remark": "Gives a relevant example of using PyTorch for a machine learning project."
+      }
+    ]
+  },
+  {
+    "test_id": "f34eaa9f-3482-4b5f-900e-9cf8fdbf5903",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "total_marks": 8.0,
+    "max_marks": 10,
+    "score": "8.0 / 10",
+    "verdict": "Wait for Notification",
+    "verdict_explanation": "The candidate has demonstrated strong competence. Please wait for further notification from the project coordinator.",
+    "details": [
+      {
+        "question_id": 1,
+        "marks": 1.5,
+        "factual_correctness": "The definitions of supervised and unsupervised learning are accurate.",
+        "answer_structure": "The answer is concise but could benefit from examples.",
+        "subject_familiarity": "Demonstrates a good understanding of basic concepts.",
+        "foresightedness": "Lacks mention of potential hybrid approaches or challenges.",
+        "remark": "A solid answer with room for elaboration."
+      },
+      {
+        "question_id": 2,
+        "marks": 1.5,
+        "factual_correctness": "The deployment steps using Docker are mostly correct.",
+        "answer_structure": "Clear and logically structured, but could include more details.",
+        "subject_familiarity": "Shows familiarity with Docker and FastAPI.",
+        "foresightedness": "Does not address potential issues like scaling or security.",
+        "remark": "Good understanding, but more depth would enhance the response."
+      },
+      {
+        "question_id": 3,
+        "marks": 2.0,
+        "factual_correctness": "Accurate explanation of transformers and their advantages.",
+        "answer_structure": "Well-organized and clearly articulated.",
+        "subject_familiarity": "Demonstrates strong knowledge of modern architectures.",
+        "foresightedness": "Mentions parallel processing but could discuss limitations.",
+        "remark": "Excellent answer showcasing deep understanding."
+      },
+      {
+        "question_id": 4,
+        "marks": 1.5,
+        "factual_correctness": "Correctly identifies tools for model versioning and deployment.",
+        "answer_structure": "Structured well, though it could use more detail on integration.",
+        "subject_familiarity": "Shows familiarity with MLOps practices.",
+        "foresightedness": "Does not mention challenges in model drift or rollback strategies.",
+        "remark": "Strong response, but could benefit from additional insights."
+      },
+      {
+        "question_id": 5,
+        "marks": 1.5,
+        "factual_correctness": "The example provided is relevant and technically sound.",
+        "answer_structure": "Clear but could elaborate on the project scope and results.",
+        "subject_familiarity": "Demonstrates practical experience with PyTorch.",
+        "foresightedness": "Lacks discussion on model evaluation or deployment considerations.",
+        "remark": "Good practical example, but more context would improve clarity."
+      }
+    ]
+  },
+  {
+    "test_id": "f34eaa9f-3482-4b5f-900e-9cf8fdbf5903",
+    "job_id": "job-007",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "total_marks": 4.5,
+    "max_marks": 10,
+    "score": "4.5 / 10",
+    "verdict": "Training Suggested",
+    "verdict_explanation": "The candidate shows potential but needs further training in key areas. We recommend completing relevant training modules before re-assessment.",
+    "details": [
+      {
+        "question_id": 1,
+        "marks": 1.5,
+        "factual_correctness": "The definitions are accurate but lack depth.",
+        "answer_structure": "The answer is concise but could be more structured.",
+        "subject_familiarity": "Demonstrates basic understanding of the concepts.",
+        "foresightedness": "Does not mention scenarios where one might be preferred over the other.",
+        "remark": "Good foundational knowledge, but could expand on implications."
+      },
+      {
+        "question_id": 2,
+        "marks": 1.5,
+        "factual_correctness": "The steps are mostly correct but lack detail on the deployment process.",
+        "answer_structure": "The answer is clear but could benefit from a more detailed breakdown.",
+        "subject_familiarity": "Shows familiarity with Docker but lacks depth in deployment strategies.",
+        "foresightedness": "Does not address potential issues with scaling or orchestration.",
+        "remark": "Solid understanding of Docker usage, but more detail needed."
+      },
+      {
+        "question_id": 3,
+        "marks": 0.0,
+        "factual_correctness": "No answer provided.",
+        "answer_structure": "N/A.",
+        "subject_familiarity": "N/A.",
+        "foresightedness": "N/A.",
+        "remark": "No response given; unable to assess knowledge."
+      },
+      {
+        "question_id": 4,
+        "marks": 0.0,
+        "factual_correctness": "No answer provided.",
+        "answer_structure": "N/A.",
+        "subject_familiarity": "N/A.",
+        "foresightedness": "N/A.",
+        "remark": "No response given; unable to assess knowledge."
+      },
+      {
+        "question_id": 5,
+        "marks": 1.5,
+        "factual_correctness": "The project description is accurate and relevant.",
+        "answer_structure": "The answer is well-structured but could include more details about the process.",
+        "subject_familiarity": "Demonstrates practical experience with PyTorch.",
+        "foresightedness": "Does not mention challenges faced or lessons learned.",
+        "remark": "Good example of practical application, but more depth would enhance the response."
+      }
+    ]
+  },
+  {
+    "score": "7.5 / 10",
+    "verdict": "Wait for Notification",
+    "verdict_description": "The candidate has demonstrated strong competence. Please wait for further notification from the project coordinator.",
+    "training_suggestions": []
+  },
+  {
+    "score": "5.5 / 10",
+    "verdict": "Training Suggested",
+    "verdict_description": "The candidate shows potential but needs further training in key areas. Please complete the suggested training modules below before re-assessment.",
+    "training_suggestions": [
+      {
+        "topic": "Docker for Machine Learning",
+        "reason": "The candidate needs to provide a clear deployment strategy for machine learning models using Docker, which is essential for operationalizing ML solutions."
+      },
+      {
+        "topic": "MLOps and Model Versioning",
+        "reason": "Understanding MLOps practices and model versioning is crucial for managing the lifecycle of machine learning models effectively."
+      },
+      {
+        "topic": "Transformers in Depth",
+        "reason": "A deeper understanding of transformers and their architecture compared to traditional neural networks is necessary for leveraging state-of-the-art NLP techniques."
+      },
+      {
+        "topic": "Advanced PyTorch Techniques",
+        "reason": "The candidate should explore advanced PyTorch features and best practices to enhance their model-building skills and optimize performance."
+      }
+    ]
+  },
+  {
+    "score": "8.5 / 10",
+    "verdict": "Wait for Notification",
+    "verdict_description": "The candidate has demonstrated strong competence. Please wait for further notification from the project coordinator.",
+    "training_suggestions": []
+  },
+  {
+    "score": "2.0 / 10",
+    "verdict": "Reject",
+    "verdict_description": "The candidate did not demonstrate sufficient knowledge or competence for this role. We recommend exploring other opportunities.",
+    "training_suggestions": []
+  },
+  {
+    "score": "6.5 / 10",
+    "verdict": "Training Suggested",
+    "verdict_description": "The candidate shows potential but needs further training in key areas. Please complete the suggested training modules below before re-assessment.",
+    "training_suggestions": [
+      {
+        "topic": "Deep Learning with Transformers",
+        "reason": "The candidate needs to deepen their understanding of transformers and how they differ from traditional neural networks."
+      },
+      {
+        "topic": "MLOps Best Practices",
+        "reason": "Improving knowledge in model versioning and deployment will enhance their ability to manage machine learning workflows effectively."
+      },
+      {
+        "topic": "Advanced Docker for Machine Learning",
+        "reason": "Gaining expertise in Docker will help the candidate deploy machine learning models more efficiently and manage dependencies better."
+      },
+      {
+        "topic": "Practical Machine Learning Projects with PyTorch",
+        "reason": "Engaging in more hands-on projects will solidify their skills in using PyTorch for various machine learning applications."
+      }
+    ]
+  }
+]

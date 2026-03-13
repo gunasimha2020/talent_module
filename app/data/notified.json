@@ -1,0 +1,1178 @@
+[
+  {
+    "key": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac:job-626d6b",
+    "freelancer_id": "ed523aaa-f2d5-45d5-a09d-d4e980cd6cac",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": null
+  },
+  {
+    "key": "c4758a94-89ea-4e7c-a483-a2f289f1ec38:job-626d6b",
+    "freelancer_id": "c4758a94-89ea-4e7c-a483-a2f289f1ec38",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": null
+  },
+  {
+    "key": "64f501d9-72f8-4d44-8b71-00c45f05c808:job-626d6b",
+    "freelancer_id": "64f501d9-72f8-4d44-8b71-00c45f05c808",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "95a40f07-baa8-41a5-a03a-429d42bbd46a:job-626d6b",
+    "freelancer_id": "95a40f07-baa8-41a5-a03a-429d42bbd46a",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": null
+  },
+  {
+    "key": "927367bf-e62b-49ba-b38a-6fee290c62bd:job-626d6b",
+    "freelancer_id": "927367bf-e62b-49ba-b38a-6fee290c62bd",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "da7b3ccd-d740-49cf-a4d8-4c9c16ec1283:job-626d6b",
+    "freelancer_id": "da7b3ccd-d740-49cf-a4d8-4c9c16ec1283",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "dbdc1dfe-90ac-41a9-9357-16b8787dcd8f:job-626d6b",
+    "freelancer_id": "dbdc1dfe-90ac-41a9-9357-16b8787dcd8f",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "492ecbb6-fd20-4186-907e-67d401e13b1e:job-626d6b",
+    "freelancer_id": "492ecbb6-fd20-4186-907e-67d401e13b1e",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "d6023d02-0287-4e33-ba9a-d89e8f511b63:job-626d6b",
+    "freelancer_id": "d6023d02-0287-4e33-ba9a-d89e8f511b63",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "52f0348d-db8f-4817-b7ee-a9adcae6fac9:job-626d6b",
+    "freelancer_id": "52f0348d-db8f-4817-b7ee-a9adcae6fac9",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "8b7bc0f1-0924-4fd9-9630-67b50b8aa7c3:job-626d6b",
+    "freelancer_id": "8b7bc0f1-0924-4fd9-9630-67b50b8aa7c3",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 7.0
+  },
+  {
+    "key": "25cc3282-1163-4ab0-8ded-81635ad62bb9:job-626d6b",
+    "freelancer_id": "25cc3282-1163-4ab0-8ded-81635ad62bb9",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 7.0
+  },
+  {
+    "key": "18d0fc85-4206-45d3-80aa-e8ff80843adb:job-626d6b",
+    "freelancer_id": "18d0fc85-4206-45d3-80aa-e8ff80843adb",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "6e6947f5-4f90-4572-8b22-fc5bb8b7e745:job-626d6b",
+    "freelancer_id": "6e6947f5-4f90-4572-8b22-fc5bb8b7e745",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "fb5a3202-ac58-4804-997f-00d391fc3dad:job-626d6b",
+    "freelancer_id": "fb5a3202-ac58-4804-997f-00d391fc3dad",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "8f2f1c45-93d0-4105-a217-5971958f980d:job-626d6b",
+    "freelancer_id": "8f2f1c45-93d0-4105-a217-5971958f980d",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "bbabe059-bed6-47fd-8015-f4408ff9dcbd:job-626d6b",
+    "freelancer_id": "bbabe059-bed6-47fd-8015-f4408ff9dcbd",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "54c346e3-b2e5-437a-9602-9e32c9eb85bd:job-626d6b",
+    "freelancer_id": "54c346e3-b2e5-437a-9602-9e32c9eb85bd",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "45284172-b950-44a1-b6cd-897bd946114c:job-626d6b",
+    "freelancer_id": "45284172-b950-44a1-b6cd-897bd946114c",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "488e7f56-beb4-4774-98ca-df389e48408b:job-626d6b",
+    "freelancer_id": "488e7f56-beb4-4774-98ca-df389e48408b",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "89b30470-4afa-45a8-a5fc-2c9b603a35a5:job-626d6b",
+    "freelancer_id": "89b30470-4afa-45a8-a5fc-2c9b603a35a5",
+    "job_id": "job-626d6b",
+    "outcome": "selected",
+    "score": 1.0,
+    "cgpa": 9.0
+  },
+  {
+    "key": "2c22a269-cb63-4d2a-8bbf-9cdf5ee9f8f9:job-626d6b",
+    "freelancer_id": "2c22a269-cb63-4d2a-8bbf-9cdf5ee9f8f9",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "76a744cf-432b-42a3-afb4-d34508bf8209:job-626d6b",
+    "freelancer_id": "76a744cf-432b-42a3-afb4-d34508bf8209",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "d406a05c-28a1-42f6-9a92-0b81e548c0c4:job-626d6b",
+    "freelancer_id": "d406a05c-28a1-42f6-9a92-0b81e548c0c4",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "f2eb83a0-99d6-4ea0-9075-b498d232c7d3:job-626d6b",
+    "freelancer_id": "f2eb83a0-99d6-4ea0-9075-b498d232c7d3",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "b16f8525-6050-4c35-9230-a30cc07045c4:job-626d6b",
+    "freelancer_id": "b16f8525-6050-4c35-9230-a30cc07045c4",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "06e80110-bbe0-4a21-8f14-bfe9cb5fe47b:job-626d6b",
+    "freelancer_id": "06e80110-bbe0-4a21-8f14-bfe9cb5fe47b",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "8efeab68-b3c3-477b-9da0-8029ebebaf94:job-626d6b",
+    "freelancer_id": "8efeab68-b3c3-477b-9da0-8029ebebaf94",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "898e89c4-ec3a-449a-a37d-7d286b0bce06:job-626d6b",
+    "freelancer_id": "898e89c4-ec3a-449a-a37d-7d286b0bce06",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "4b1a3d80-d8ae-40b4-bfa1-11f7c4a2b8af:job-626d6b",
+    "freelancer_id": "4b1a3d80-d8ae-40b4-bfa1-11f7c4a2b8af",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "09ef516c-5a8a-4ede-85da-7a534e773d9e:job-626d6b",
+    "freelancer_id": "09ef516c-5a8a-4ede-85da-7a534e773d9e",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "7c465c67-e6b0-4a3f-91e7-add7f8ecb285:job-626d6b",
+    "freelancer_id": "7c465c67-e6b0-4a3f-91e7-add7f8ecb285",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "9894343a-e567-4182-93fb-f883fba6d06b:job-626d6b",
+    "freelancer_id": "9894343a-e567-4182-93fb-f883fba6d06b",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "4e87617a-0952-4449-a54f-8119e5a21ae2:job-626d6b",
+    "freelancer_id": "4e87617a-0952-4449-a54f-8119e5a21ae2",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "44f85e61-5d82-4765-9dbf-2c01de0debc7:job-626d6b",
+    "freelancer_id": "44f85e61-5d82-4765-9dbf-2c01de0debc7",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "ed59617f-a6e2-4ecc-b134-ca0a9e482199:job-626d6b",
+    "freelancer_id": "ed59617f-a6e2-4ecc-b134-ca0a9e482199",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "2b4ee1ae-4df9-4871-9b33-3550499d60df:job-626d6b",
+    "freelancer_id": "2b4ee1ae-4df9-4871-9b33-3550499d60df",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "40e617ec-3928-4d99-9dd7-c0913c3ab6e0:job-626d6b",
+    "freelancer_id": "40e617ec-3928-4d99-9dd7-c0913c3ab6e0",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "78add523-9d08-412d-be92-9a053816291d:job-626d6b",
+    "freelancer_id": "78add523-9d08-412d-be92-9a053816291d",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "7d80457c-541e-4503-9878-a5a2fc33539f:job-626d6b",
+    "freelancer_id": "7d80457c-541e-4503-9878-a5a2fc33539f",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "788e6ddd-b0a5-46a0-a921-8f001213c69a:job-626d6b",
+    "freelancer_id": "788e6ddd-b0a5-46a0-a921-8f001213c69a",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "53fc86a3-bb2a-4ae1-b585-584135c3d9e6:job-626d6b",
+    "freelancer_id": "53fc86a3-bb2a-4ae1-b585-584135c3d9e6",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ed676fc1-e31b-4a99-ae30-f8148b8793f5:job-626d6b",
+    "freelancer_id": "ed676fc1-e31b-4a99-ae30-f8148b8793f5",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "62bf86e9-442d-4523-966e-bdd2a25a5355:job-626d6b",
+    "freelancer_id": "62bf86e9-442d-4523-966e-bdd2a25a5355",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "fa5a06a0-7eb2-4934-971c-35fe43af88d9:job-626d6b",
+    "freelancer_id": "fa5a06a0-7eb2-4934-971c-35fe43af88d9",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "1519a4a3-c465-466c-8b39-c19767f0a429:job-626d6b",
+    "freelancer_id": "1519a4a3-c465-466c-8b39-c19767f0a429",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "3f9231b8-46f8-44b6-aa1a-5a146850eba4:job-626d6b",
+    "freelancer_id": "3f9231b8-46f8-44b6-aa1a-5a146850eba4",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.2,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-626d6b",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.1,
+    "cgpa": 8.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-626d6b",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-626d6b",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-626d6b",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-626d6b",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-626d6b",
+    "outcome": "rejected",
+    "score": 0.2,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-prod-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-innovation-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-cognitive-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-transform-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-cv-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-data-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-systems-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd:job-solutions-001",
+    "freelancer_id": "92c7c2ce-f96a-4ee8-a039-0dd5cd76fcdd",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-prod-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-innovation-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-cognitive-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-transform-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-cv-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-data-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-systems-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "c97074a3-ab16-46f3-b251-13aa76b017f6:job-solutions-001",
+    "freelancer_id": "c97074a3-ab16-46f3-b251-13aa76b017f6",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 7.0
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-prod-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-innovation-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-cognitive-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-transform-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-cv-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-data-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-systems-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "af640ee1-2694-48cc-883b-167f229b0bf8:job-solutions-001",
+    "freelancer_id": "af640ee1-2694-48cc-883b-167f229b0bf8",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.8
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-prod-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-innovation-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-cognitive-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-transform-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-cv-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-data-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-systems-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ae1f847d-8a3b-43d4-b89c-07d796295686:job-solutions-001",
+    "freelancer_id": "ae1f847d-8a3b-43d4-b89c-07d796295686",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-prod-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-innovation-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-cognitive-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-transform-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-cv-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-data-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-systems-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e:job-solutions-001",
+    "freelancer_id": "94e53f85-3a90-4dd8-95d7-f4e24cc4264e",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "3c23e248-86b1-4270-a8d3-8ea4ceb0e232:job-prod-001",
+    "freelancer_id": "3c23e248-86b1-4270-a8d3-8ea4ceb0e232",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "3c23e248-86b1-4270-a8d3-8ea4ceb0e232:job-innovation-001",
+    "freelancer_id": "3c23e248-86b1-4270-a8d3-8ea4ceb0e232",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "b372051b-ad78-49d9-a390-81d94953fdba:job-transform-001",
+    "freelancer_id": "b372051b-ad78-49d9-a390-81d94953fdba",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "b372051b-ad78-49d9-a390-81d94953fdba:job-systems-001",
+    "freelancer_id": "b372051b-ad78-49d9-a390-81d94953fdba",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b:job-cognitive-001",
+    "freelancer_id": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b:job-cv-001",
+    "freelancer_id": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b:job-solutions-001",
+    "freelancer_id": "0db0a0e6-6ed4-45e3-9eeb-0bc183b0c01b",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "16e49f81-4e45-491d-97fe-da6c81410940:job-prod-001",
+    "freelancer_id": "16e49f81-4e45-491d-97fe-da6c81410940",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "16e49f81-4e45-491d-97fe-da6c81410940:job-data-001",
+    "freelancer_id": "16e49f81-4e45-491d-97fe-da6c81410940",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "8ae962da-7d74-4948-a76a-471860462021:job-cv-001",
+    "freelancer_id": "8ae962da-7d74-4948-a76a-471860462021",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "8ae962da-7d74-4948-a76a-471860462021:job-systems-001",
+    "freelancer_id": "8ae962da-7d74-4948-a76a-471860462021",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "8ae962da-7d74-4948-a76a-471860462021:job-solutions-001",
+    "freelancer_id": "8ae962da-7d74-4948-a76a-471860462021",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "a7cc72d5-2177-4d61-bcc5-9a49854a6796:job-prod-001",
+    "freelancer_id": "a7cc72d5-2177-4d61-bcc5-9a49854a6796",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "a7cc72d5-2177-4d61-bcc5-9a49854a6796:job-innovation-001",
+    "freelancer_id": "a7cc72d5-2177-4d61-bcc5-9a49854a6796",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "bdefd4af-8d59-422e-a72a-961214d12400:job-transform-001",
+    "freelancer_id": "bdefd4af-8d59-422e-a72a-961214d12400",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "bdefd4af-8d59-422e-a72a-961214d12400:job-systems-001",
+    "freelancer_id": "bdefd4af-8d59-422e-a72a-961214d12400",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "563dfbb4-012b-4d04-8441-dae5d605ddb5:job-cognitive-001",
+    "freelancer_id": "563dfbb4-012b-4d04-8441-dae5d605ddb5",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "563dfbb4-012b-4d04-8441-dae5d605ddb5:job-cv-001",
+    "freelancer_id": "563dfbb4-012b-4d04-8441-dae5d605ddb5",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "563dfbb4-012b-4d04-8441-dae5d605ddb5:job-solutions-001",
+    "freelancer_id": "563dfbb4-012b-4d04-8441-dae5d605ddb5",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "3d32eebf-261c-4c45-8910-9fcda757aafc:job-prod-001",
+    "freelancer_id": "3d32eebf-261c-4c45-8910-9fcda757aafc",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "3d32eebf-261c-4c45-8910-9fcda757aafc:job-data-001",
+    "freelancer_id": "3d32eebf-261c-4c45-8910-9fcda757aafc",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": null
+  },
+  {
+    "key": "f3ed391c-18e2-4acd-9ea1-55f08666743d:job-cv-001",
+    "freelancer_id": "f3ed391c-18e2-4acd-9ea1-55f08666743d",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "f3ed391c-18e2-4acd-9ea1-55f08666743d:job-systems-001",
+    "freelancer_id": "f3ed391c-18e2-4acd-9ea1-55f08666743d",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "f3ed391c-18e2-4acd-9ea1-55f08666743d:job-solutions-001",
+    "freelancer_id": "f3ed391c-18e2-4acd-9ea1-55f08666743d",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": null
+  },
+  {
+    "key": "46c305d9-4c63-4ccf-8020-6b0f08241d61:job-prod-001",
+    "freelancer_id": "46c305d9-4c63-4ccf-8020-6b0f08241d61",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 9.0
+  },
+  {
+    "key": "46c305d9-4c63-4ccf-8020-6b0f08241d61:job-innovation-001",
+    "freelancer_id": "46c305d9-4c63-4ccf-8020-6b0f08241d61",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 9.0
+  },
+  {
+    "key": "9e22aae4-6dfd-49ea-9135-092cdecc81be:job-transform-001",
+    "freelancer_id": "9e22aae4-6dfd-49ea-9135-092cdecc81be",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.5
+  },
+  {
+    "key": "9e22aae4-6dfd-49ea-9135-092cdecc81be:job-systems-001",
+    "freelancer_id": "9e22aae4-6dfd-49ea-9135-092cdecc81be",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.5
+  },
+  {
+    "key": "4ada0e2c-a694-426e-8bb3-8029128f5461:job-cognitive-001",
+    "freelancer_id": "4ada0e2c-a694-426e-8bb3-8029128f5461",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "4ada0e2c-a694-426e-8bb3-8029128f5461:job-cv-001",
+    "freelancer_id": "4ada0e2c-a694-426e-8bb3-8029128f5461",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "4ada0e2c-a694-426e-8bb3-8029128f5461:job-solutions-001",
+    "freelancer_id": "4ada0e2c-a694-426e-8bb3-8029128f5461",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "9b85baf1-75be-4c80-a6fa-c6dd73b2cc60:job-prod-001",
+    "freelancer_id": "9b85baf1-75be-4c80-a6fa-c6dd73b2cc60",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 9.0
+  },
+  {
+    "key": "9b85baf1-75be-4c80-a6fa-c6dd73b2cc60:job-innovation-001",
+    "freelancer_id": "9b85baf1-75be-4c80-a6fa-c6dd73b2cc60",
+    "job_id": "job-innovation-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 9.0
+  },
+  {
+    "key": "b11b4ca0-f24d-456d-b7eb-16889f008cbb:job-transform-001",
+    "freelancer_id": "b11b4ca0-f24d-456d-b7eb-16889f008cbb",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.5
+  },
+  {
+    "key": "b11b4ca0-f24d-456d-b7eb-16889f008cbb:job-systems-001",
+    "freelancer_id": "b11b4ca0-f24d-456d-b7eb-16889f008cbb",
+    "job_id": "job-systems-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 8.5
+  },
+  {
+    "key": "76e5b298-92c9-4410-b49e-cb994ac439cd:job-cognitive-001",
+    "freelancer_id": "76e5b298-92c9-4410-b49e-cb994ac439cd",
+    "job_id": "job-cognitive-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "76e5b298-92c9-4410-b49e-cb994ac439cd:job-cv-001",
+    "freelancer_id": "76e5b298-92c9-4410-b49e-cb994ac439cd",
+    "job_id": "job-cv-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "76e5b298-92c9-4410-b49e-cb994ac439cd:job-solutions-001",
+    "freelancer_id": "76e5b298-92c9-4410-b49e-cb994ac439cd",
+    "job_id": "job-solutions-001",
+    "outcome": "rejected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "076c5b64-7ca6-444f-8da3-ddede7980be9:job-prod-001",
+    "freelancer_id": "076c5b64-7ca6-444f-8da3-ddede7980be9",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "076c5b64-7ca6-444f-8da3-ddede7980be9:job-data-001",
+    "freelancer_id": "076c5b64-7ca6-444f-8da3-ddede7980be9",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0:job-cv-001",
+    "freelancer_id": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0",
+    "job_id": "job-cv-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0:job-systems-001",
+    "freelancer_id": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0",
+    "job_id": "job-systems-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0:job-solutions-001",
+    "freelancer_id": "987d9b84-17fb-4fc7-bc3d-057e62be0ee0",
+    "job_id": "job-solutions-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "0017e623-85b2-4267-99e5-4f54ee85c1d3:job-prod-001",
+    "freelancer_id": "0017e623-85b2-4267-99e5-4f54ee85c1d3",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 9.0
+  },
+  {
+    "key": "0017e623-85b2-4267-99e5-4f54ee85c1d3:job-innovation-001",
+    "freelancer_id": "0017e623-85b2-4267-99e5-4f54ee85c1d3",
+    "job_id": "job-innovation-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 9.0
+  },
+  {
+    "key": "53d65710-e64b-4638-829b-69bc18c1f974:job-transform-001",
+    "freelancer_id": "53d65710-e64b-4638-829b-69bc18c1f974",
+    "job_id": "job-transform-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.5
+  },
+  {
+    "key": "53d65710-e64b-4638-829b-69bc18c1f974:job-systems-001",
+    "freelancer_id": "53d65710-e64b-4638-829b-69bc18c1f974",
+    "job_id": "job-systems-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.5
+  },
+  {
+    "key": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d:job-cognitive-001",
+    "freelancer_id": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d",
+    "job_id": "job-cognitive-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d:job-cv-001",
+    "freelancer_id": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d",
+    "job_id": "job-cv-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d:job-solutions-001",
+    "freelancer_id": "cab73cbd-17f8-4f05-b7c8-b02e5099a68d",
+    "job_id": "job-solutions-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 7.5
+  },
+  {
+    "key": "cb278de3-55c4-46f1-a59b-27d22d1f79d4:job-prod-001",
+    "freelancer_id": "cb278de3-55c4-46f1-a59b-27d22d1f79d4",
+    "job_id": "job-prod-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "cb278de3-55c4-46f1-a59b-27d22d1f79d4:job-data-001",
+    "freelancer_id": "cb278de3-55c4-46f1-a59b-27d22d1f79d4",
+    "job_id": "job-data-001",
+    "outcome": "rejected",
+    "score": 0.0,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ec1b8021-0445-43b2-84fb-93ab575bd2ef:job-cv-001",
+    "freelancer_id": "ec1b8021-0445-43b2-84fb-93ab575bd2ef",
+    "job_id": "job-cv-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ec1b8021-0445-43b2-84fb-93ab575bd2ef:job-systems-001",
+    "freelancer_id": "ec1b8021-0445-43b2-84fb-93ab575bd2ef",
+    "job_id": "job-systems-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  },
+  {
+    "key": "ec1b8021-0445-43b2-84fb-93ab575bd2ef:job-solutions-001",
+    "freelancer_id": "ec1b8021-0445-43b2-84fb-93ab575bd2ef",
+    "job_id": "job-solutions-001",
+    "outcome": "selected",
+    "score": 0.25,
+    "cgpa": 8.0
+  }
+]
